@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\PlayerControl.js">
+    <Files>
+      <File FileName="Assets\scripts\BotCollider.js" Line="14" Column="28" />
+      <File FileName="Assets\scripts\CameraController.js" Line="1" Column="1" />
+      <File FileName="Assets\scripts\TopCollider.js" Line="14" Column="28" />
+      <File FileName="Assets\scripts\PlayerControl.js" Line="42" Column="26" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
